@@ -23,7 +23,7 @@ Include anche **5 video dimostrativi** per mostrare l’utilizzo dei vari strume
 Il file originale è di **75 MB** a causa dei video incorporati.  
 Per questo motivo, **non è incluso direttamente nella repository**, ma è disponibile tramite link esterno:
 
-[📁 Scarica Presentazione PowerPoint (75 MB)]([https://link-al-file](https://drive.google.com/drive/folders/1-hP8DXCArNoy9wIjJsU--1s_q3rnkLO3?hl=it))
+[📁 Scarica Presentazione PowerPoint (75 MB)](https://drive.google.com/drive/folders/1-hP8DXCArNoy9wIjJsU--1s_q3rnkLO3?hl=it)
 
 > 🔹 Il file contiene tutti i video e gli esempi originali senza perdita di qualità.  
 > 🔹 I dati reali sono anonimizzati o sostituiti da esempi fittizi.
