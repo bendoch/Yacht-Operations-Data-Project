@@ -16,24 +16,24 @@ Ogni yacht generava dati separati, e non esisteva una visione integrata delle op
 - **PowerBI**: dashboard per analisi temporali e finanziarie, con grafici, KPI e filtri per facilitare la lettura dei dati e l’individuazione di trend.
 
 ## 🗂️ Struttura della repository
-Data-Analysis-Project/
-│
-├─ Excel/
-│ ├─ REPORT.xlsx
-│ ├─ REPORT_OPERAZIONI.xlsx
-| ├─ popolamento_file_report.xlxs
-│ └─ README.md
-│
-├─ PowerBI/
-│ ├─ REPORT.pbix
-│
-├─ AppSheet/
-│ └─ README.md
-│
-├─ Presentazione/
-│ └─ Demo_PowerPoint.pptx
-│
-└─ README.md
+Data-Analysis-Project/<br>
+│<br>
+├─ Excel/<br>
+│ ├─ REPORT.xlsx<br>
+│ ├─ REPORT_OPERAZIONI.xlsx<br>
+| ├─ popolamento_file_report.xlxs<br>
+│ └─ README.md<br>
+│<br>
+├─ PowerBI/<br>
+│ ├─ REPORT.pbix<br>
+│<br>
+├─ AppSheet/<br>
+│ └─ README.md<br>
+│<br>
+├─ Presentazione/<br>
+│ └─ Demo_PowerPoint.pptx<br>
+│<br>
+└─ README.md<br>
 
 ## ⚙️ Strumenti e Tecnologie
 - Microsoft Excel (macro VBA, convalida dati, formattazioni condizionali)  
