@@ -31,7 +31,7 @@ Data-Analysis-Project/<br>
 │ └─ README.md<br>
 │<br>
 ├─ Presentazione/<br>
-│ └─ Demo_PowerPoint.pptx<br>
+│ └─ Presentazione V.Bendovskyy.pptx<br>
 │<br>
 └─ README.md<br>
 
